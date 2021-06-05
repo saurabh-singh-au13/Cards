@@ -40,3 +40,6 @@ body{
 .card-img-top:hover{
     transform: scale(1.2);
 }
+.card-img-top{
+    bottom: 1px solid black;
+}
